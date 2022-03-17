@@ -22,6 +22,7 @@ I am 30 years old, I’m eager to learn something new, so I’m here.
 * HTML(beginner)
 * CSS(beginner)
 * Git/GitHub(beginer)
+* Adobe Illustrator(beginer)
 
 ### Code Examples
 ```javascript
