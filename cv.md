@@ -31,6 +31,14 @@ function multiply(a, b) {
 };
 ```
 
+```javascript
+function printMyName() {
+    console.log('Pavel')
+}
+
+setTimeout(printMyName, 2000)
+```
+
 ## Languages
 * Belarusian - Native speaker
 * Russian - Native speaker
