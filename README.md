@@ -1,1 +1,1 @@
-# RSS
+https://PauloMaslouski.github.io/rsschool-cv/
